@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://beyzadebaklava.de/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beyzadebaklava.de/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://beyzadebaklava.de/tr/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://beyzadebaklava.de/"/>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://beyzadebaklava.de/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://beyzadebaklava.de/"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://beyzadebaklava.de/tr/"/>
+    <priority>0.8</priority>
+  </url>
+</urlset>
