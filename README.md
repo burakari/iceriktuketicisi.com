@@ -1,3 +1,72 @@
+# beyzadebaklava.de — v2.0
+
+## GÜNCELLEME — CRISPY ASIAN RAPORUNDAN ESİNLENEN PREMIUM DOKUNUŞLAR
+
+Renk paleti/oyuncu tonu değil, altındaki **yapısal fikirler** Beyzade'nin
+kendi kimliğine (koyu yeşil/altın, zarif serif) uyarlandı:
+
+1. **Kayan yazı şeridi (marquee)**: hero'nun altında ve sipariş
+   bölümünden önce, altın renkli, ince italik yazıyla akan iki şerit
+   eklendi (ürün adları + "El yapımı · Her gün taze · Nesillerdir
+   gelen gelenek" gibi kısa vurgular).
+2. **Rozet/mühür hatası düzeltildi**: "Neden Beyzade" bölümündeki 4
+   ikondan ikisi (Seçme Malzeme / Özel Anlar İçin) birbirinin AYNISI
+   bir kalp ikonuydu — fark edilmemiş bir hataydı. Artık 4'ü de
+   birbirinden farklı, ince altın çerçeveli birer "mühür": fıstık
+   dalı, açık kitap, 8 köşeli yıldız, çay bardağı.
+3. **Dairesel imza rozeti**: Ana sayfa hero görselinin köşesine,
+   ince altın çerçeveli dairesel bir "Türkiye'nin Tatlısı" fotoğrafı
+   bindirildi — vitrin fotoğrafının yanında küçük bir "mühür" gibi
+   duruyor.
+4. **Dönen damga**: Hikayemiz bölümündeki fotoğrafın köşesine,
+   yavaşça dönen, kenarında "TRADITION IN JEDER SCHICHT · SEIT
+   OFFENBACH ·" yazan ince bir SVG damga eklendi — sayfa durağan
+   değil, "canlı" bir imza hissi veriyor.
+5. **Pill butonlar**: Tüm butonlar (CTA'lar, kategori sekmeleri,
+   sipariş kartı butonları) artık tam yuvarlak kenarlı — kartlar ve
+   fotoğraflar hâlâ keskin köşeli, bilinçli bir kontrast.
+6. **Bölüm renk ritmi** gözden geçirildi — koyu/açık geçişler daha
+   bilinçli akıyor.
+
+---
+
+# beyzadebaklava.de — v1.9
+
+## GÜNCELLEME — GERÇEK TELEFON NUMARASI EKLENDİ
+
+`06997 317 676` numarası şu 5 yere eklendi (hepsi `tel:+496997317676`
+linkiyle tıklanabilir):
+- Sipariş bölümü "Telefon" kartı (DE+TR) — buton artık "numarayı
+  mağazadan öğrenin" değil, doğrudan numarayı gösteriyor ve arıyor
+- Footer iletişim bilgisi (DE+TR)
+- Impressum sayfasındaki Kontakt bölümü
+- JSON-LD (`telephone` alanı) — Google'da arama sonuçlarında/haritada
+  doğru numara çıkması için
+
+**Not:** Bu bir sabit hat numarası (069 Frankfurt/Offenbach bölge kodu)
+— WhatsApp linkleri hâlâ ayrı bir mobil numara gerektiriyor, o
+placeholder (`491511106060X`) yerinde duruyor.
+
+---
+
+# beyzadebaklava.de — v1.8
+
+## GÜNCELLEME — HAMBURGER MENÜ HATASI DÜZELTİLDİ
+
+**Kök neden bulundu:** `.topbar`'da duran `backdrop-filter:blur(6px)`
+özelliği, CSS spesifikasyonuna göre içindeki `position:fixed`
+elemanları (mobil menü de dahil) artık ekrana göre değil, o ince
+topbar kutusuna göre konumlandırıyordu. Sonuç: menü ya hiç görünmüyor
+ya da anlamsız/kırpılmış bir alanda beliriyordu — bu, benim önceki
+turda eklediğim animasyonlu ikondan değil, v1'den beri var olan bir
+CSS tuzağından kaynaklanıyordu.
+
+**Çözüm:** `backdrop-filter` kaldırıldı, üst bar hâlâ aynı koyu/şeffaf
+görünümde (opaklık .94 → .97 ile telafi edildi, blur olmadan da
+temiz duruyor). Menü artık tüm ekranı düzgün kaplıyor.
+
+---
+
 # beyzadebaklava.de — v1.7
 
 ## GÜNCELLEME — MOBİL ODAKLI YÜKSELTME
