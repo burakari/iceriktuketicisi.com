@@ -1,17 +1,16 @@
 User-agent: *
 Allow: /
-Disallow: /impressum.html
-Disallow: /datenschutz.html
 
+# Yapay zekâ arama motorları (GEO)
 User-agent: GPTBot
 Allow: /
 User-agent: OAI-SearchBot
 Allow: /
-User-agent: PerplexityBot
-Allow: /
 User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
 Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://beyzadebaklava.de/sitemap.xml
+Sitemap: https://regaipogretmen.com/sitemap.xml
