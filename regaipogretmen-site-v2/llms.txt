@@ -1,0 +1,43 @@
+# Regaip Öğretmen — Matematik Özel Ders
+
+Slogan: Matematiği kökünden anlamak.
+
+> Regaip Öğretmen, Eskişehir'de (Odunpazarı ve Tepebaşı) yüz yüze, Türkiye'nin her yerinde ve yurt dışında online birebir matematik özel dersi verir. Hazırlık verilen alanlar: YKS (TYT Temel Matematik ve AYT Matematik), DGS sayısal, ALES sayısal ve lise (9-12. sınıf) okul matematiği. İletişim ve bilgi: WhatsApp 0 (501) 072 72 23 (+90 501 072 72 23).
+
+## Temel bilgiler
+- Ders biçimi: birebir; Eskişehir'de yüz yüze veya online (görüntülü, canlı)
+- Hizmet bölgesi: Eskişehir merkez (Odunpazarı, Tepebaşı); online olarak Türkiye ve yurt dışı
+- Süreç: seviye tespiti, kişiye özel plan, birebir ders ve ödev, deneme takibi
+- Ücret: ders türü, sıklığı ve hedefe göre değişir; güncel bilgi WhatsApp üzerinden verilir
+- Web sitesi: https://regaipogretmen.com/
+
+## Dersler
+- [YKS matematik özel dersi (TYT–AYT)](https://regaipogretmen.com/yks-matematik-ozel-ders/): TYT’de hız ve doğruluk, AYT’de limit, türev ve integrali anlayarak çözme.
+- [DGS matematik özel dersi](https://regaipogretmen.com/dgs-matematik-ozel-ders/): Uzun süre ara verenler için temelden problemlere ve sayısal mantığa uzanan program.
+- [ALES sayısal özel dersi](https://regaipogretmen.com/ales-matematik-ozel-ders/): Soru tiplerini tanıma, tablo-grafik yorumu ve süre yönetimi.
+- [Lise matematik özel dersi ve okula destek](https://regaipogretmen.com/lise-matematik-ozel-ders/): Yazılılara hazırlık, konu eksiklerini kapatma, sınıfın hızını yakalama.
+- [Eskişehir’de yüz yüze matematik özel dersi](https://regaipogretmen.com/eskisehir-matematik-ozel-ders/): Ders yeri ve saati öğrencinin programına göre birlikte belirlenir.
+- [Online matematik özel dersi](https://regaipogretmen.com/online-matematik-ozel-ders/): Görüntülü, canlı ve birebir; yüz yüze dersle aynı plan ve takip.
+
+## Çözümlü sorular
+- [TYT matematik çözümlü sorular](https://regaipogretmen.com/cozumlu-sorular/tyt/): Üslü sayılar, Bölünebilme, Yüzde problemleri, Mutlak değer, İşçi problemleri, Dik üçgen
+- [AYT matematik çözümlü sorular](https://regaipogretmen.com/cozumlu-sorular/ayt/): Limit, Türev ve ekstremum, Belirli integral, Logaritma, Aritmetik diziler, Trigonometri
+- [DGS matematik çözümlü sorular](https://regaipogretmen.com/cozumlu-sorular/dgs/): Sayı problemleri, Yaş problemleri, Hız problemleri, Karışım problemleri, Sayısal mantık
+- [ALES sayısal çözümlü sorular](https://regaipogretmen.com/cozumlu-sorular/ales/): Aritmetik ortalama, Yüzdenin yüzdesi, Olasılık, Kombinasyon, Çemberde kiriş, Sayısal akıl yürütme
+
+## Sınav rehberi (blog)
+- [TYT matematiğe nereden başlamalı? Konu sırası ve haftalık plan](https://regaipogretmen.com/blog/tyt-matematik-calisma-plani/): TYT Temel Matematik’e hangi konudan başlanmalı, haftada kaç saat ayrılmalı, problemlere ne zaman geçilmeli? Adım adım bir çalışma sırası.
+- [AYT matematikte neti artırmanın 7 yolu](https://regaipogretmen.com/blog/ayt-matematik-net-artirma/): AYT Matematik’te netler bir noktada takılıyorsa sebep çoğu zaman konu eksikliği değil, çalışma biçimi. Neti artıran yedi somut alışkanlık.
+- [DGS sayısala hazırlık: çalışırken de uygulanabilir bir plan](https://regaipogretmen.com/blog/dgs-sayisal-hazirlik-rehberi/): Uzun süre matematiğe ara verdiysen ya da çalışırken DGS’ye hazırlanıyorsan: nereden başlamalı, hangi konular öncelikli, haftada ne kadar zaman ayırmalı?
+- [ALES sayısal: soru tipleri ve zaman yönetimi](https://regaipogretmen.com/blog/ales-sayisal-taktikleri/): ALES sayısal bölümünde puanı belirleyen şey çoğu zaman bilgi değil hız. Soru tiplerini tanımak ve süreyi doğru bölmek için pratik öneriler.
+- [Denemeden sonraki 30 dakika: hata analizi nasıl yapılır?](https://regaipogretmen.com/blog/deneme-analizi-nasil-yapilir/): Deneme sınavının değeri netinde değil, sonrasındaki analizde. Yanlışları dört türe ayırıp hata defteri tutmanın pratik yolu.
+- [Eskişehir’de matematik özel dersi seçerken nelere bakmalı?](https://regaipogretmen.com/blog/eskisehir-matematik-ozel-ders-secimi/): Eskişehir’de matematik özel dersi arayan öğrenci ve veliler için: ilk görüşmede sorulacak sorular, yüz yüze ve online dersin farkları, ders sıklığı.
+- [Geometriye nereden başlanır? TYT ve AYT için çalışma sırası](https://regaipogretmen.com/blog/geometri-calisma-sirasi/): Geometri korkutucu görünür ama konular birbirine sıkı sıkıya bağlıdır. Açılardan katı cisimlere doğru ilerleyen bir çalışma sırası ve şekil çizme alışkanlıkları.
+- [Problemleri çözemiyorum: denklem kurmayı öğrenmenin yolu](https://regaipogretmen.com/blog/problemler-nasil-calisilir/): Problem sorularının neredeyse tamamı Türkçe cümleyi cebire çevirme becerisine dayanır. Çeviri tablosu, bilinmeyen seçme ve problem türlerine göre çalışma yöntemi.
+- [YKS’ye son 3 ay: matematik için tekrar ve deneme planı](https://regaipogretmen.com/blog/yks-son-3-ay-matematik/): Sınava üç ay kala matematikte neye öncelik verilmeli? On iki haftayı üç evreye bölen, eksik kapatma, karma tekrar ve deneme odaklı bir plan.
+- [Çocuğunuz matematikte zorlanıyorsa: veliler için rehber](https://regaipogretmen.com/blog/veliler-icin-matematik-rehberi/): Matematikte zorlanan lise öğrencisinin velisi için: dikkat edilmesi gereken işaretler, zorlanmanın olası sebepleri, evde yapılabilecekler ve özel dersin ne zaman gerektiği.
+
+## İletişim
+- WhatsApp: https://wa.me/905010727223
+- Telefon: 0 (501) 072 72 23
+- Sayfa: https://regaipogretmen.com/iletisim/
