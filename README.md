@@ -1,8 +1,4 @@
-# Regaip Öğretmen — gösterim sürümü
+# Care Akademi — gösterim paketi (iceriktuketicisi.com)
 
-Bu paket, sitenin iceriktuketicisi.com üzerinde geçici gösterimi içindir.
-- `CNAME`: iceriktuketicisi.com
-- Tüm sayfalar `noindex`: Google bu gösterimi dizine eklemez.
-- Paylaşım görselleri iceriktuketicisi.com'dan yüklenir; WhatsApp önizlemesi çalışır.
-
-Kalıcı yayın regaipogretmen.com'a taşınırken bu paket yerine asıl paket (regaipogretmen-github.zip) kullanılır.
+Geçici gösterim içindir. `CNAME`: iceriktuketicisi.com · tüm sayfalar noindex (Google’a kapalı) · paylaşım görselleri bu alan adından yüklenir.
+Kalıcı yayında careakademi-site.zip kullanılır.

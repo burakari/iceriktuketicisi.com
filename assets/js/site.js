@@ -13,7 +13,7 @@
     });
     if(pick !== ans) b.classList.add('is-wrong');
     var fb = q.querySelector('.fb');
-    if(fb) fb.textContent = pick === ans ? 'Doğru. Çözümü açtım; kendi yolunla karşılaştır.' : 'Doğru cevap ' + ans + '. Çözüme birlikte bakalım.';
+    if(fb) fb.textContent = pick === ans ? 'Doğru. Çözümü kendi yolunuzla karşılaştırın.' : 'Doğru cevap ' + ans + '. Çözümü inceleyin.';
     var d = q.querySelector('details');
     if(d) d.open = true;
   });
@@ -23,8 +23,9 @@
   document.querySelectorAll('[data-composer]').forEach(function(c){
     var link = c.querySelector('[data-wa]'), out = c.querySelector('.preview');
     function build(){
-      var h = c.querySelector('input[name$="hedef"]:checked'), s = c.querySelector('input[name$="sekil"]:checked');
-      var msg = 'Merhaba, ' + (h ? h.value + ' için ' : '') + (s ? s.value + ' ' : '') + 'matematik özel dersi hakkında bilgi almak istiyorum.';
+      var v = function(n){ var x = c.querySelector('input[name$="-' + n + '"]:checked'); return x ? x.value : ''; };
+      var lv = v('seviye'), d = v('ders'), s = v('sekil');
+      var msg = (lv || d || s) ? 'Merhaba, ' + (lv ? lv + ' ' : '') + (s ? s + ' ' : '') + (d || 'özel ders') + ' hakkında bilgi almak istiyorum.' : 'Merhaba, Care Akademi’de özel ders hakkında bilgi almak istiyorum.';
       link.href = 'https://wa.me/' + N + '?text=' + encodeURIComponent(msg);
       if(out) out.textContent = '“' + msg + '”';
     }
@@ -47,13 +48,14 @@
   });
 
   // Blog kategori filtresi
-  var fl = document.querySelector('.filter');
-  if(fl){
+  document.querySelectorAll('.filter').forEach(function(fl){
+    var scope = document.querySelector(fl.getAttribute('data-target')) || document;
     fl.addEventListener('click', function(e){
       var b = e.target.closest('button'); if(!b) return;
       fl.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
       var k = b.getAttribute('data-f');
-      document.querySelectorAll('.posts-list li').forEach(function(li){ li.hidden = k !== 'all' && (' ' + li.getAttribute('data-cat') + ' ').indexOf(' ' + k + ' ') < 0; });
+      scope.querySelectorAll('li[data-cat]').forEach(function(li){ li.hidden = k !== 'all' && (' ' + li.getAttribute('data-cat') + ' ').indexOf(' ' + k + ' ') < 0; });
+      scope.querySelectorAll('.grp').forEach(function(g){ var ul = g.nextElementSibling; g.hidden = ul && !ul.querySelector('li[data-cat]:not([hidden])'); });
     });
-  }
+  });
 })();
