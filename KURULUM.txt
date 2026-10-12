@@ -1,0 +1,17 @@
+iceriktuketicisi.com — yeni site dosyaları
+
+Bu klasördeki dosyaları GitHub reposunun kök dizinine koy; eski index.html'in yerine yenisi geçsin.
+Repoda CNAME dosyası varsa ona dokunma.
+
+index.html          Sitenin kendisi. Fontlar, görseller ve kodlar içine gömülü; tek dosya.
+404.html            Bulunamayan sayfalar için markalı hata sayfası.
+og-image.jpg        WhatsApp, LinkedIn vb. link paylaşımlarında çıkan önizleme görseli.
+apple-touch-icon.png, favicon.ico   Sekme ve ana ekran ikonları.
+robots.txt, sitemap.xml             Arama motorları için.
+llms.txt            Yapay zekâ asistanları için markanın kısa tanımı.
+
+Google Analytics (G-5688V2JPRK) aynen duruyor. Ziyaretçi çerez iznini verene kadar
+analitik çerez yazılmıyor (KVKK/GDPR uyumlu Consent Mode). Analytics kodu sayfa
+yüklendikten sonra devreye girdiği için siteyi yavaşlatmıyor.
+
+Metinleri düzenlemek için index.html'i açıp ilgili cümleyi aratman yeterli.
