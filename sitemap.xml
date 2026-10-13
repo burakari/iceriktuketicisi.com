@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://iceriktuketicisi.com/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://iceriktuketicisi.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://iceriktuketicisi.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://iceriktuketicisi.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://iceriktuketicisi.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://iceriktuketicisi.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceriktuketicisi.com/"/>
+  </url>
+  <url>
+    <loc>https://iceriktuketicisi.com/en/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://iceriktuketicisi.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://iceriktuketicisi.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://iceriktuketicisi.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://iceriktuketicisi.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://iceriktuketicisi.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceriktuketicisi.com/"/>
+  </url>
+  <url>
+    <loc>https://iceriktuketicisi.com/de/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://iceriktuketicisi.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://iceriktuketicisi.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://iceriktuketicisi.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://iceriktuketicisi.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://iceriktuketicisi.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceriktuketicisi.com/"/>
+  </url>
+  <url>
+    <loc>https://iceriktuketicisi.com/es/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://iceriktuketicisi.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://iceriktuketicisi.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://iceriktuketicisi.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://iceriktuketicisi.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://iceriktuketicisi.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceriktuketicisi.com/"/>
+  </url>
+  <url>
+    <loc>https://iceriktuketicisi.com/ar/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://iceriktuketicisi.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://iceriktuketicisi.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://iceriktuketicisi.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://iceriktuketicisi.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://iceriktuketicisi.com/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://iceriktuketicisi.com/"/>
   </url>
 </urlset>
